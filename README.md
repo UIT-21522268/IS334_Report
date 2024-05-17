@@ -1,4 +1,4 @@
-# HandM-Recommender-System for IS334 Report
+# Recommendation System for H&M demo built with Streamlit
 This repo contains the required file to deploy the app on streamlit.io cloud.<br>
 
 The application is a demo that show the results of different recommendation models which is part of my work on H&M personalized-fashion-recommendations hosted on Kaggle.com
